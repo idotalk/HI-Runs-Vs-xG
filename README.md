@@ -72,3 +72,16 @@ Possible extensions include adding more seasons, incorporating opponent tracking
 
 The project was developed in cooperation with the performance staff at Maccabi Haifa FC.
 Their collaboration included access to GPS data, expert interpretation of physical metrics and validation of the research findings.
+
+## Rights, Data Ownership, and Usage Restrictions
+
+All data, analyses, methodologies, models, visualizations, results, and conclusions presented in this repository, including those described in the accompanying research paper, are the intellectual property of Maccabi Haifa FC and the Technion – Israel Institute of Technology.
+
+This material is provided for academic reference only.
+All rights are reserved.
+
+Any use of the data or findings beyond personal academic review - including, but not limited to, reproduction, redistribution, modification, publication, commercial use, or the creation of derivative works - requires prior explicit written permission from both Maccabi Haifa FC and the Technion - Israel Institute of Technology.
+
+Unauthorized use of any part of this work may constitute a violation of intellectual property laws and institutional agreements and may result in legal action under applicable law.
+
+*Note: This repository does not grant a license for reuse of data or findings. See Rights, Data Ownership, and Usage Restrictions below.*
