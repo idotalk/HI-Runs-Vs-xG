@@ -15,7 +15,7 @@ POSITIONS_MAPPING = {
         'LW': 'attacker',
         'ST': 'attacker',
         'CF': 'attacker',
-        'UNK': 'attacker',  # Suf Podgoreanu only
+        'UNK': 'attacker',
         'GK': 'goalkeeper'
  }
 ZONE_6_SPRINT_THRESHOLD = 6.94   # m/s
