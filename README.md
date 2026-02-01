@@ -4,7 +4,7 @@
 
 This repository contains the full research report ([paper.pdf]) and supporting explanations of the system, methodology, and findings.
 
-[paper.pdf]:https://github.com/idotalk/HI-runs-vs-xG/blob/main/paper.pdf
+[paper.pdf]:https://github.com/idotalk/HG-Runs-Vs-xG/blob/master/paper.pdf
 
 ## Overview
 
